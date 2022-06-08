@@ -4,4 +4,4 @@
 # Welcome to soviet union
 > warsaw pact 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sino1086)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sino1086)](https://github.com/enu1086/sino1086/tree-save/main/README.md)
